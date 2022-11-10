@@ -1,0 +1,3 @@
+/home/forty-twoo/WorkSpace/CADCourseCode_cpp/build/CMakeFiles/CADCourse.dir
+/home/forty-twoo/WorkSpace/CADCourseCode_cpp/build/CMakeFiles/edit_cache.dir
+/home/forty-twoo/WorkSpace/CADCourseCode_cpp/build/CMakeFiles/rebuild_cache.dir
