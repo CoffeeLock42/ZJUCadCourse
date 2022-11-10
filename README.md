@@ -41,6 +41,7 @@ make
 ./CADCourse 1 
 or
 ./CADCourse 2
+you could use your keyboard up/down/right/left to rotate the picture
 ```
 
 #### Examples
